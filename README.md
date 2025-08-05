@@ -8,7 +8,7 @@ Infrastructure as a Code (IaaC) for deploying a production-ready AWS EKS (Elasti
 
 ## 🚀 Overview
 
-This repository automates the creation and configuration of the Kubernetes infrastructure required to host the `Paymend` microservices application. It provisions:
+This repository automates the creation and configuration of the Kubernetes infrastructure required to host the `Payment` microservices application. It provisions:
 
 - EKS Cluster
 - VPC and Networking components
