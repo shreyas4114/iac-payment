@@ -2,7 +2,7 @@
 
 ## 📎 Related Repositories
 
-➡️ [vprofile-action](https://github.com/shreyas4114/payment_actions): Microservices application deployed to this EKS cluster.
+➡️ [payment-actions](https://github.com/shreyas4114/payment_actions): Microservices application deployed to this EKS cluster.
 
 Infrastructure as a Code (IaaC) for deploying a production-ready AWS EKS (Elastic Kubernetes Service) cluster using Terraform and GitHub Actions.
 
