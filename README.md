@@ -12,7 +12,6 @@ This repository automates the creation and configuration of the Kubernetes infra
 
 - EKS Cluster
 - VPC and Networking components
-- IAM roles and policies
 - Kubernetes provider setup
 - Ingress Controller installation
 
